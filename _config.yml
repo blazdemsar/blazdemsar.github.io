@@ -4,6 +4,10 @@ author:
   name: Blaž Demšar
   email: "blazdemsar@gmail.com"
 
+description: >
+  This is my attempt at creating a personal website using GitHub pages. Hopefully you like the work I've done 
+  so far and the rest is just blah, blah and blah.
+
 # theme: minima
 remote_theme: jekyll/minima
 
@@ -12,9 +16,9 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - ABOUT.md
-  - EXPERIENCE.md
-  - PROJECTS.md
+  - about.md
+  - experience.md
+  - projects.md
 
 minima:
   skin: dark
