@@ -3,9 +3,7 @@ layout: home
 permalink: /
 ---
 
-![profile-pic](/images/profile-pic.jpeg)
-
-<img height="300" src="/images/profile-pic.jpeg" width="300"/>
+<img src="/images/profile-pic.jpeg" style="display: block; margin-left: auto; margin-right: auto; width: 100%; height: 100%;" />
 
 # Welcome!
 
