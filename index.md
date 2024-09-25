@@ -1,8 +1,12 @@
 ---
 layout: home
-title: Home
 permalink: /
 ---
 
-My home page.
+![profile-pic](/images/profile-pic.jpeg)
 
+<img height="300" src="/images/profile-pic.jpeg" width="300"/>
+
+# Welcome!
+
+My name is Blaz Demsar, and I come from Slovenia. 
