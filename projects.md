@@ -4,18 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-## Project 1
+## Python
+- Link
+- Link
 
-My project described here.
+## Java & Spring
+- Link
+- Link
 
-## Project 2
+## Full-stack
+- Link
+- Link
 
-My project described here.
+This is about me. I don't even know if this is needed, so I might eventually scrap it.
 
-## Project 3
+You can go back home by clicking this [link](index.md) though.
 
-My project described here.
-
-## Project 4
-
-My project described here.

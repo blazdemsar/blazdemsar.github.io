@@ -19,8 +19,6 @@ ligula consectetur suscipit. Gravida neque tempor lobortis leo in praesent. Phas
 porta; ut dictum risus. Class pretium luctus turpis consectetur porta posuere eros. Cursus hac accumsan ipsum semper 
 mauris convallis dui mattis.
 
-
-<br/>
 Sincerely,
 <br/>
 Blaž Demšar
