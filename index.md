@@ -1,10 +1,10 @@
 ---
 layout: home
+title: Welcome!
 permalink: /
 ---
-# Welcome!
 
-My name is Blaz Demsar, and I come from Slovenia. 
+My name is Blaž Demšar, and I come from Slovenia. 
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Dui porttitor cubilia dis leo; non dis. Fusce facilisis scelerisque 
 habitasse, metus pretium rhoncus mollis. Quam torquent volutpat commodo leo facilisi a. Per hac augue interdum feugiat 
@@ -20,5 +20,10 @@ porta; ut dictum risus. Class pretium luctus turpis consectetur porta posuere er
 mauris convallis dui mattis.
 
 
+<br/>
+Sincerely,
+<br/>
+Blaž Demšar
+<br/>
+<br/>
 <img src="/images/profile-pic.jpeg" style="display: block; margin-left: 0; margin-right: auto; width: 400px; height: 400px" />
-
