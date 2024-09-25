@@ -1,11 +1,20 @@
-theme: jekyll-theme-minima
+title: Blaž Demšar
+
+author:
+  name: Blaž Demšar
+  email: "blazdemsar@gmail.com"
+
+theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 header_pages:
   - ABOUT.md
   - EXPERIENCE.md
   - PROJECTS.md
-author:
-  name: Blaž Demšar
-  email: "blazdemsar@gmail.com"
 
 minima:
   skin: dark
