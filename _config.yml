@@ -18,7 +18,7 @@ plugins:
 header_pages:
   - journey.md
   - career.md
-  - projects.md
+  #- projects.md Uncomment when ready
 
 minima:
   skin: dark
