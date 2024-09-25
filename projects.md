@@ -4,4 +4,18 @@ title: Projects
 permalink: /projects/
 ---
 
-My projects described here.
+## Project 1
+
+My project described here.
+
+## Project 2
+
+My project described here.
+
+## Project 3
+
+My project described here.
+
+## Project 4
+
+My project described here.

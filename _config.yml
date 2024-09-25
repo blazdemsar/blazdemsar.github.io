@@ -5,8 +5,8 @@ author:
   email: "blazdemsar@gmail.com"
 
 description: >
-  This is my attempt at creating a personal website using GitHub pages. Hopefully you like the work I've done 
-  so far and the rest is just blah, blah and blah.
+  This is just a description of this website. Honestly, I have nothing fancy to write here. It's just my personal 
+  page - duhh!
 
 # theme: minima
 remote_theme: jekyll/minima
@@ -17,7 +17,7 @@ plugins:
 
 header_pages:
   - about.md
-  - experience.md
+  - journey.md
   - projects.md
 
 minima:
