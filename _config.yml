@@ -16,6 +16,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
+  - index.md
   - journey.md
   - career.md
   #- projects.md Uncomment when ready

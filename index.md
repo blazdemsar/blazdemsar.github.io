@@ -4,7 +4,7 @@ title: Welcome!
 permalink: /
 ---
 
-My name is Blaž Demšar, and I come from Slovenia. 
+Hello there! My name is Blaž Demšar, and I come from Slovenia. 
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Dui porttitor cubilia dis leo; non dis. Fusce facilisis scelerisque 
 habitasse, metus pretium rhoncus mollis. Quam torquent volutpat commodo leo facilisi a. Per hac augue interdum feugiat 
