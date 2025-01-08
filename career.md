@@ -23,16 +23,17 @@ permalink: /career/
             <span style="font-size: 14px; color: grey"><b>Loyalty & Rewards</b></span>
             <p style="margin-top: 20px">
                 Led a team of 5 engineers at a Fortune 500 and Top 10 US bank in Loyalty & Rewards LOB. Brought in to
-                create a brand new Loyalty platform to serve an influx of new customers through acquisition and provide
-                a fresh and improved CX.
+                create a brand-new Loyalty platform to serve an influx of new customers due to a merger, while making
+                it more resilient, extendable and provide a fresh and improved CX.
             </p>
             <ul>
-                <li style="padding-left: 20px">Created architectural diagrams for building out the request ingestion service</li>
-                <li style="padding-left: 20px">Led early stage discovery & development efforts</li>
+                <li style="padding-left: 20px">Created architectural diagrams for building out the opt-in request ingestion service</li>
+                <li style="padding-left: 20px">Led MVP discovery & development efforts</li>
+                <li style="padding-left: 20px">Engineered a handful of API drafts for a set of new microservices</li>
                 <li style="padding-left: 20px">Coordinated & managed stakeholder relationships</li>
             </ul>
             <p style="margin-top: 20px">
-                <b>Key Technologies: </b> AWS, Python, FastAPI, DynamoDB, Pytest, Behave
+                <b>Key Technologies: </b> AWS, Python, FastAPI, DynamoDB, Snowflake, Pytest, Behave
             </p>
             <hr style="width: 200px">
             <span style="font-size: 14px; color: grey"><b>Settlements Modernization</b></span>
@@ -42,17 +43,17 @@ permalink: /career/
                 automate and streamline settlement decisioning.
             </p>
             <ul>
-                <li style="padding-left: 20px">Worked on modernizing the Settlements processing platform handling >45M transaction/day</li>
+                <li style="padding-left: 20px">Played a key role in modernization of the Settlements processing platform handling >45M transaction/day</li>
                 <li style="padding-left: 20px">Eliminated reliance on third-party platform resulting in:</li>
                 <ul>
                     <li style="padding-left: 20px">~30% faster processing time</li>
                     <li style="padding-left: 20px">heavily reduced transaction fees</li>
-                    <li style="padding-left: 20px">increased cyber security through in-house processing</li>
+                    <li style="padding-left: 20px">reduced cyber related threats through full in-house processing by more than 40%</li>
                 </ul>
-                <li style="padding-left: 20px">Worked with POs to discover, scope-out and align teams on upcoming work</li>
+                <li style="padding-left: 20px">Closely worked with Product to discover, scope-out and align multiple teams on upcoming work</li>
             </ul>
             <p style="margin-top: 20px">
-                <b>Key Technologies: </b> AWS, Python, FastAPI, DynamoDB, Postgres, Behave
+                <b>Key Technologies: </b> AWS, Python, FastAPI, DynamoDB, Snowflake, Postgres, Behave
             </p>
             <hr style="width: 200px">
             <span style="font-size: 14px; color: grey"><b>Digital Intake Transformation</b></span>
@@ -97,15 +98,14 @@ permalink: /career/
                 Worked for a Top 10 US bank to create a brand new, cloud-native, Credit Bureau Dispute platform to automate the
                 process resulting in roughly ~4M/annually in savings and 50% faster agent processing/decisioning times.
                 Additionally, by completely eliminating use of a third-party platform, we were able to largely increase
-                cybersecurity, resiliency and recovery. 
-                . 
+                cybersecurity, resiliency and recovery.
             </p>
             <ul>
-                <li style="padding-left: 20px">Closely working with the client's stakeholders as well as fostering a healthy and productive consulting relationship</li>
+                <li style="padding-left: 20px">Closely working with client's stakeholders as well as fostering a healthy and productive consulting relationship</li>
                 <li style="padding-left: 20px">Managed code deployments to AWS using in-house CI/CD pipeline</li>
                 <li style="padding-left: 20px">Developed a surrogate gateway to utilize in-house encryption API when passing data between NPI/PCI environments</li>
                 <li style="padding-left: 20px">Developed multiple microservices within a platform that process different types of disputes, fetch account information and provide decisioning</li>
-                <li style="padding-left: 20px">Fully integrated the platform with in-house Case Management system</li>
+                <li style="padding-left: 20px">Fully integrated the platform with in-house Case Management system, eliminating manual intake process</li>
                 <li style="padding-left: 20px">Employed Test Driven Development best practices to ensure >95% code coverage using JUnit as well as Cucumber ATs</li>
             </ul>
             <p style="margin-top: 20px">
@@ -117,12 +117,11 @@ permalink: /career/
             <span style="font-size: 14px; color: grey"><b>Invoice Processing Automation</b></span>
             <p style="margin-top: 20px">
                 Worked for a client dealing with Payment Systems to modernize and automate their invoice and billing solutions using
-                UIPath Studio and its orchestration tools.
+                UIPath Studio and its orchestration tools, effectively saving the company ~200K/month in operational expenses.
             </p>
             <ul>
                 <li style="padding-left: 20px">Created UI automation bots for client's customers eliminating manual invoice download process resulting in more than 20 weekly hours saved in manual labor</li>
-                <li style="padding-left: 20px">Implemented steps to ensure automated retries for failed jobs</li>
-                <li style="padding-left: 20px">Effectively saved ~200K/month in operational expenses</li>
+                <li style="padding-left: 20px">Implemented steps to ensure automated retries for failed jobs, further reducing amount of manual remediation needed</li>
             </ul>
             <p style="margin-top: 20px">
                 <b>Key Technologies: </b> UIPath Studio
@@ -173,7 +172,7 @@ permalink: /career/
             <ul>
                 <li style="padding-left: 20px">Enhanced data objects to better serve the needs of their website</li>
                 <li style="padding-left: 20px">Worked on creating new & improving existing search capabilities for retrieving flights based on different sets of criteria</li>
-                <li style="padding-left: 20px">Created a new mailing microservice for sending out booking confirmations and updates</li>
+                <li style="padding-left: 20px">Created a new mailing microservice for sending out booking confirmations and updates, thus improving user experience</li>
             </ul>
             <p style="margin-top: 20px">
                 <b>Key Technologies: </b> AWS, Java 11, Spring/Spring Boot, AOP, Hibernate, Postgres
@@ -197,7 +196,7 @@ permalink: /career/
     </div>
     <div style="margin-bottom: 10px">
         <p style="margin-top: 20px">
-            Worked as Web Development Intern within the DevOps team to create new and improve existing features of the company's web services.
+            Worked as an intern within a DevOps team to create new and improve existing features of the company's web services.
             I have integrated with both Front and Back-End Development teams to coordinate the development and integration of new features on Magento Enterprise platform.
             Periodically, I have presented progress reports during team's bi-weekly meetings to immediate supervisors and other members of the DevOps team.
         </p>

@@ -2,11 +2,11 @@ title: Blaž Demšar
 
 author:
   name: Blaž Demšar
-  email: "blazdemsar@gmail.com"
+  #email: "blazdemsar@gmail.com"
 
-description: >
-  This is just a description of this website. Honestly, I have nothing fancy to write here. It's just my personal 
-  page - duhh!
+#description: >
+#  This is just a description of this website. Honestly, I have nothing fancy to write here. It's just my personal
+#  page - duhh!
 
 # theme: minima
 remote_theme: jekyll/minima
@@ -17,7 +17,7 @@ plugins:
 
 header_pages:
   - index.md
-  - journey.md
+  #- journey.md
   - career.md
   #- projects.md Uncomment when ready
 
